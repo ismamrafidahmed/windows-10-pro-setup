@@ -34,6 +34,8 @@ Once logged into the VM, open cmd and type ipconfig to see if you have an IP add
 
 Go to your network adapter settings on your client VM and change the IPV4 DNS IP address from auto to the IP address of the domain controller
 
+![image](https://github.com/user-attachments/assets/c72cb34e-5e05-44e1-82a9-fa866f2a3ccd)
+
 Next, to join this VM to the domain, go to rename this pc (advanced), change, type “Client-1” for the computer name, type “mydomain.com” for member of: domain
 
 ![image](https://github.com/user-attachments/assets/d2698881-6e71-49fb-adcc-a8151393e47c)
